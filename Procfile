@@ -1,0 +1,1 @@
+web: gunicorn pyppro.wsgi --log-file -
